@@ -1,3 +1,5 @@
 /datasets/*
 *.gz
 *.zip
+*.txt
+*.csv
